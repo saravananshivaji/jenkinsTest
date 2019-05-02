@@ -34,6 +34,6 @@ public class AppTest
     public void testApp()
     {
 //        assertTrue( true );
-    	assertEquals("Hello World!!", App.createMessage());
+    	assertEquals("Hello World!", App.createMessage());
     }
 }
